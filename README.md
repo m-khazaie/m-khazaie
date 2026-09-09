@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Mohammad Khazaie 👋
 
-<!--
-**m-khazaie/m-khazaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer
 
-Here are some ideas to get you started:
+I'm a Frontend Developer focused on building modern, responsive, and user-friendly web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into clean, functional, and visually engaging interfaces while continuously improving my development skills.
+
+---
+
+## 🚀 Featured Projects
+
+### 🛍️ Nexora
+
+A modern and responsive e-commerce management dashboard focused on store management, orders, customers, products, and business insights.
+
+### 💻 Devora
+
+A modern web project focused on building a clean and engaging user experience with responsive design and interactive interfaces.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+* HTML5
+* CSS3
+* JavaScript
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 📌 What I'm Currently Doing
+
+* Building and improving frontend projects
+* Practicing JavaScript and modern web development
+* Improving UI/UX and responsive design skills
+* Building projects for my developer portfolio
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: [@m-khazaie](https://github.com/m-khazaie)
+
+---
+
+⭐ Feel free to explore my repositories and projects.
